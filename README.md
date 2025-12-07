@@ -1,7 +1,7 @@
 <h1 align="center"> 📰 News Reader </h1> <br>
 
 <h3>👥 Nama:</h3>
-🙋‍♂️ Khaila Farhan Abadan: **XI/PPLG-3/14** <br>
+FADLI AKBAR <br>
 <hr style="border: 1px dashed #4CAF50;" />
 
 <br>
